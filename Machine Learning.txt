@@ -1,0 +1,18 @@
+What is Machine Learning ?
+
+Machine learning is a field of artificial intelligence that focuses on the development of algorithms and statistical models that allow computers to perform tasks that would normally require human intelligence, such as pattern recognition and decision making. In machine learning, computers are trained on data sets to recognize patterns, and are then able to make predictions or take actions based on those patterns. Machine learning algorithms can be classified into three main categories: supervised learning, unsupervised learning, and reinforcement learning.
+
+What are classification of ML ? & their definitions?
+
+There are several different types of machine learning, but the most common ones are:
+
+Supervised learning: This is a type of machine learning in which the algorithm is trained on labeled data, meaning that the data set includes both input data and the corresponding correct output. The goal of supervised learning is to predict the output for a new, unseen input. Examples of supervised learning include spam detection and credit fraud detection.
+
+Unsupervised learning: This is a type of machine learning in which the algorithm is not given any labeled training data and must find patterns and relationships in the data on its own. The goal of unsupervised learning is to discover the underlying structure of the data. Examples of unsupervised learning include clustering and anomaly detection.
+
+Semi-supervised learning: This is a type of machine learning that falls between supervised learning and unsupervised learning. In semi-supervised learning, the algorithm is given some labeled training data and some unlabeled training data. The goal is to use the labeled data to learn about the relationships in the data, and then use that knowledge to label the unlabeled data.
+
+Reinforcement learning: This is a type of machine learning in which an agent learns to interact with its environment in order to maximize a reward. The agent receives feedback in the form of rewards or penalties for its actions, and it learns by adjusting its behavior based on this feedback. Examples of reinforcement learning include self-driving cars and game-playing algorithms.
+
+Deep learning: This is a type of machine learning that is inspired by the structure and function of the brain, specifically the neural networks that make up the brain. Deep learning algorithms are trained using large amounts of data and are able to learn and make decisions on their own by discovering patterns and features in the data. Deep learning algorithms have achieved state-of-the-art results on a wide range of tasks, including image and speech recognition and natural language processing.
+
